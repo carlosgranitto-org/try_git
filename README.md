@@ -1,3 +1,3 @@
 "# try_git" 
 
-updated text on branch test1
+updated text on branch test2
